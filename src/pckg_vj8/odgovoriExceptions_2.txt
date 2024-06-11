@@ -1,0 +1,5 @@
+1. Kada program pita za broj, možemo upisati slovo, i program neće baciti iznimku.
+
+2. InputMismatchException
+
+3. Možemo scanner staviti u  try blok

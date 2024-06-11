@@ -11,5 +11,6 @@ public class Zadatak_2_1_App {
         int kub = (int) Math.pow(unos,3);
         System.out.println("Kvadrat od "+unos + " je: "+ kvadrat);
         System.out.println("Kub od " + unos + " je: "+ kub);
+        sc.close();
     }
 }

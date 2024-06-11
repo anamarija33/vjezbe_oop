@@ -18,5 +18,6 @@ public class Zadatak_4_1_App {
             r = sc.nextDouble();
         }
         System.out.println("Radius bigger than 10.");
+        sc.close();
     }
 }

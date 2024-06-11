@@ -1,0 +1,16 @@
+Student, Bodovi, Aktivnosti, Radovi, Redoviti upis, Napomena
+Student_1, 88, 4, 1, TRUE, prvo mjesto
+Student_2, 82, 2, 2, FALSE, drugo mjesto
+Student_3, 78, 2, 1, TRUE, prvo mjesto
+Student_4, 77, 4, 0, TRUE, treće mjesto
+Student_1, 76, 1, 1, FALSE, četvrto mjesto
+Student_1, 85, 1, 0, FALSE, prvo mjesto
+Student_2, 78, 5, 2, FALSE, drugo mjesto
+Student_4, 99, 4, 3, FALSE, prvo mjesto
+Student_3, 95, 5, 0, FALSE, prvo mjesto
+Student_3, 100, 0, 3, TRUE, četvrto mjesto
+Student_2, 77, 4, 2, FALSE, treće mjesto
+Student_2, 84, 4, 2, TRUE, prvo mjesto
+Student_1, 93, 2, 2, FALSE, drugo mjesto
+Student_4, 76, 2, 0, TRUE, treće mjesto
+Student_3, 96, 3, 1, FALSE, prvo mjesto

@@ -15,5 +15,6 @@ public class Zadatak_4_4_App {
             confirmation = scanner.next().charAt(0);
         }
         System.out.println("You chose to exit the program!");
+        scanner.close();
     }
 }

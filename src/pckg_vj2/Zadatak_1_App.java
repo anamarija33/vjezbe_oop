@@ -8,14 +8,15 @@ public class Zadatak_1_App {
         String[] string1 = {"Vasa", "vana plurimum", "sonant"};
         String[] string2 = new String[4];
         for (int i = 0; i < string2.length; i++) {
+            System.out.println("Upušite "+(i+1)+". string: ");
             string2[i] = scanner.next();
         }
-        for (int i = 0; i<string1.length;i++){
-            System.out.print(string1[i]+" ");
+        for (String s : string1) {
+            System.out.print(s + " ");
         }
         System.out.println();
-        for (int i = 0; i < string2.length; i++){
-            System.out.println(string2[i]);
+        for (String s : string2) {
+            System.out.println(s);
         }
     }
 }

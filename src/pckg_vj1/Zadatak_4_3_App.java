@@ -14,5 +14,6 @@ public class Zadatak_4_3_App {
             System.out.println("Uneseni broj: " + number);
         }
         System.out.println("Unesena je tražena vrijednost.");
+        sc.close();
     }
 }

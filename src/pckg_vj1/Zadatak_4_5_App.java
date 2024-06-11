@@ -22,5 +22,6 @@ public class Zadatak_4_5_App{
                 System.out.println("You did not enter one of the 3 numbers.");
                 break;
         }
+        scanner.close();
     }
 }

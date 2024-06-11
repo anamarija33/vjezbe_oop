@@ -18,6 +18,7 @@ public class Zadatak_2_2_App {
         float unos3 = sc.nextFloat();
         System.out.println("Korijen tog broja je: "+(Math.sqrt(unos3)));
         System.out.println("Apsolutna vrijednost tog broja je: "+ (Math.abs(unos3)));
+        sc.close();
 
 
     }

@@ -17,5 +17,6 @@ public class Zadatak_3_1_App {
         } else {
             System.out.println("Unijeli ste nulu!");
         }
+        sc.close();
     }
 }

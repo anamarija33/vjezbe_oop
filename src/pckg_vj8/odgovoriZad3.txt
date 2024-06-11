@@ -1,0 +1,1 @@
+Što ćete imati kao izlaz i na što vas dobiveni izlaz upozorava? Program će izbaciti iznimku ArrayIndexOutOfBoundsException, i poruka upozorava da je index koji smo pozvali veći od duljine niza

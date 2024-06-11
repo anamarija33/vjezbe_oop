@@ -16,5 +16,6 @@ public class Zadatak_4_2_App {
             add_nums+=i;
         }
         System.out.println("Addition of " + num + " numbers is " + add_nums);
+        sc.close();
     }
 }

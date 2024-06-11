@@ -1,0 +1,7 @@
+3. Ako vršimo čitanje datoteke koja ne postoji, program će izbaciti iznimku
+
+4. Riječ je o iznimki FileNotFound - datoteka nije pronađena, znači da putanja ili ime datoteke nije pravilno upisano
+
+5. Treba uhvatiti grešku u try catch bloku
+
+6. Ukoliko datoteka u koju pokušavamo pisati ima atribut read-only, program izbaci IOException

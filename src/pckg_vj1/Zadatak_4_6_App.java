@@ -23,5 +23,6 @@ public class Zadatak_4_6_App {
             default:
                 System.out.println("Sigurno će biti bolje \uD83D\uDE03");
         }
+        scanner.close();
     }
 }
